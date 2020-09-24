@@ -1,0 +1,16 @@
+{
+    "name": "dht11",
+    "version": "0.0.0",
+    "description": "Extension for YahBoom dh11 V1.0.1",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "dht11.ts",
+        "_locales/zh-cn/dht11-strings.json",
+        "_locales/zh-tw/dht11-strings.json"
+    ],
+    "public": true
+}
