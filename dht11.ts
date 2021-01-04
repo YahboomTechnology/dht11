@@ -9,7 +9,6 @@ load dependency
 //% weight=0 color=#3CB371 icon="\uf043" block="dht11"
 namespace dht11 {
 
-
     export enum DHT11Type {
         //% block="temperature(℃)" enumval=0
         DHT11_temperature_C,
